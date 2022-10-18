@@ -1,6 +1,6 @@
 # SushiGo RL #
 Initial implementation of Sushi Go! by Martin Liu, as modified by Manveer Kaur and Dan Nygard.
-Original code base can be found at: https://github.com/Gravellent/sushigo-rl
+
 
 We recommend using Anaconda (https://www.anaconda.com/) to handle dependencies.
 
